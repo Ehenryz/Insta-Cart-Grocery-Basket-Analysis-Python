@@ -37,4 +37,4 @@ via Kaggle Feb. 2024, in addition to a complimentary mock data set.
 * Data (_Orignal Data & Prepared Data_)
 * Scripts (_contains Python code for analysis_)
 * Analysis (_contains Visualizations & Crosstabs_)
-*Sent to Client (_contains Final Report of analysis methodology, results, and recommendations for Instacart stakeholders_)
+* Sent to Client (_contains Final Report of analysis methodology, results, and recommendations for Instacart stakeholders_)
