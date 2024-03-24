@@ -32,3 +32,9 @@ via Kaggle Feb. 2024, in addition to a complimentary mock data set.
 * products
 * orders products prior
 * customers (_mock data set_)
+## Folders
+* Project Management (_Project Brief & Data Dictionary_)
+* Data (_Orignal Data & Prepared Data_)
+* Scripts (_contains Python code for analysis_)
+* Analysis (_contains Visualizations & Crosstabs_)
+*Sent to Client (_contains Final Report of analysis methodology, results, and recommendations for Instacart stakeholders_)
