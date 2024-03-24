@@ -3,13 +3,13 @@ Contains Python exploratory analysis of 4 data sets for Instacart. An additional
 ## Objective
 To derive insights from the data in order to suggest targeted customer marketing strategies for enhanced customer segmentations to ensure appropriate customer profiles are targeted with the appropriate products. 
 ### Key Questions:
-1. The sales team needs to know what the busiest days of the week and hours of the
+* The sales team needs to know what the busiest days of the week and hours of the
 day are (i.e., the days and times with the most orders) in order to schedule ads at
 times when there are fewer orders.
-2. They also want to know whether there are particular times of the day when people
+* They also want to know whether there are particular times of the day when people
 spend the most money, as this might inform the type of products they advertise at
 these times.
-3. Instacart has a lot of products with different price tags. Marketing and sales want to
+* Instacart has a lot of products with different price tags. Marketing and sales want to
 use simpler price range groupings to help direct their efforts.
 4. Are there certain types of products that are more popular than others? The marketing
 and sales teams want to know which departments have the highest frequency of
