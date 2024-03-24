@@ -24,14 +24,7 @@ often do they return to Instacart)?
 habits?
 * What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
 * What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
-
-
-
-
-
-
-
-Data Sets
+## Data Sets
 The project includes open source data sets from "The Instacart Online Grocery Shopping
 Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017
 via Kaggle Feb. 2024, in addition to a complimentary mock data set.
