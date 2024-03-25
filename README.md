@@ -27,7 +27,7 @@ habits?
 ## Data Sets
 The project includes open source data sets from "The Instacart Online Grocery Shopping
 Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017
-via Kaggle Feb. 2024, in addition to a complimentary mock data set.
+via Kaggle Feb. 2024, in addition to a complimentary mock data set. (_Data files too large to upload to HitHub_)
 * orders
 * products
 * orders products prior
